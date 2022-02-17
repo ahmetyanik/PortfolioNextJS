@@ -14,7 +14,7 @@ function Home() {
               <Col lg={8}>
                 <h1>About <span className={styles.titleRed}>Me</span></h1>
                 <p>
-                  Hi, I am Güngör. I am a final year student at Konya Technical
+                  Hi, I am Ahmet. I am a final year student at Konya Technical
                   University Computer Engineering Department. I have been
                   studying on front-end development websites and mobile
                   applications. The risen I work in theese fields is I think I
