@@ -1,0 +1,46 @@
+.container {
+  color: white;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+
+.about {
+  margin-top: 7%;
+  margin-bottom: 5%;
+  align-items: center;
+}
+.titleRed {
+  color: #e10712;
+}
+.skill {
+  margin-top: 7%;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  max-height: 170px;
+  max-width: 190px;
+}
+
+.rowCenter {
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  .about {
+    text-align: center;
+    justify-content: center;
+  }
+
+  .logo {
+    margin-bottom: 1em;
+    max-height: 140px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .rowCenter {
+    text-align: center;
+  }
+}

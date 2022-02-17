@@ -1,0 +1,32 @@
+.container {
+  color: white;
+  justify-content: center;
+}
+
+.about {
+  margin-top: 10%;
+  align-items: center;
+}
+
+.blogLink {
+  font-weight: bold;
+}
+.titleRed{
+  color:#E10712
+}
+.blogLink :hover {
+  color: #ff1b26;
+}
+
+@media screen and (max-width: 821px) {
+  .about {
+    text-align: center;
+    justify-content: center;
+  }
+
+  .meImg {
+    order: -1;
+    max-width: 300px;
+    margin-bottom: 1em;
+  }
+}
